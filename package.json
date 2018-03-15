@@ -49,5 +49,16 @@
     "tslint": "4.5.0",
     "typescript": "2.2.0",
     "webdriver-manager": "10.2.5"
-  }
+  },
+  "description": "`git clone https://github.com/cod3rcursos/meat-app-starter.git`",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cod3rcursos/meat-app-starter.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/cod3rcursos/meat-app-starter/issues"
+  },
+  "homepage": "https://github.com/cod3rcursos/meat-app-starter#readme"
 }
